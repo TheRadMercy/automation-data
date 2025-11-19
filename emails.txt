@@ -1,5 +1,5 @@
-Elias.Morgan@gmail.com 
-ChrisPrice@gmail.com
-LeoTurner@gmail.com
-Adam2Collins@gmail.com
-Ryan.Blake@gmail.com
+{
+  "data": {
+    "email": "Elias.Morgan@gmail.com"
+  }
+}
