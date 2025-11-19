@@ -1,10 +1,5 @@
-Lina Moretti
-Maya Harrison
-Sofia Delgado
-Nadia Kassem
-Emily Stonem
-Rita Vandenberg
-Diana Hemsworth
-Clara Hoffmann
-Jenna Collins
-Talia Romano
+{
+  "data": {
+    "name": "Sasha"
+  }
+}
