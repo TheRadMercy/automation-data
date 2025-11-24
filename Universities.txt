@@ -1,5 +1,5 @@
 {
   "data": {
-    "university": "miami"
+    "university": "chicago"
   }
 }
